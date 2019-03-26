@@ -16,7 +16,7 @@
 
 <div id="nav">
     <ul class="nav-bar">
-        <li>管理菜单</li>
+        <li>管理菜单develop</li>
         <li class="item"><a href="javascript:;" id="item-management">项目经验管理</a></li>
         <li class="item"><a href="javascript:;" id="file-image" >图片上传</a></li>
         <li class="item"><a href="javascript:;" id="video-show">周杰伦高清MV欣赏</a></li>
