@@ -9,7 +9,7 @@
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="assets/css/animate.css">
 	<link rel="stylesheet" href="assets/css/style.css">
-	<title>半岛铁盒</title>
+	<title>半岛铁盒aaa</title>
 </head>
 <body>
 
